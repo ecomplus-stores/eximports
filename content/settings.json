@@ -1,24 +1,24 @@
 {
-  "store_id": 1419,
-  "name": "eximports",
   "domain": "eximports.netlify.app",
-  "short_name": "eximports",
-  "description": "eximports",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#23b0f7",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/eximports",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Ex Imports",
+  "short_name": "Ex Imports",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/eximports"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo.png",
+  "store_id": 1419,
+  "description": "Buscamos os Melhores Produtos com os Melhores Fornecedores. Assim, Surgiu a ideia de trazer o atendimento diferenciado e agilidade para o mundo virtual, Surgindo assim há Ex Imports, Trazendo os produtos sob encomenda direto para o cliente.\n#23b0f7",
+  "large_icon": "/img/uploads/logo.png"
 }
