@@ -1,0 +1,18 @@
+{
+  "title": "Cupons de descontos",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cupommabril.jpg"
+    },
+    {
+      "type": "custom-html",
+      "html": "<iframe width=\"100%\" height=\"300\" src=\"https://www.youtube.com/embed/K6ezk_ZGwQE\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" style=\"text-align: center;\"></iframe>"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cupomabril2.jpg"
+    }
+  ],
+  "body": "."
+}
