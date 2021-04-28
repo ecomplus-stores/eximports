@@ -1,17 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Cupons de descontos na compra de duas ou mais camisas. ",
+    "link": "/cupons-de-descontos"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Cupons de descontos ",
+        "link": "/pages/cupons-de-descontos"
       }
     ],
     "phone_wpp": true,
