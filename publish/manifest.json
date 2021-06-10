@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5e550b59378304e27be923c74189b187.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.da1928a1e8c36d248976ebf831feb6a5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f28888f0025cb1665af8599567ca1474.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.67b3786431cf6c1311579fd56caffae5.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.687b4e52228561187a819972cc94ef99.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Ex Imports",
+  "short_name": "Ex Imports",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Buscamos os Melhores Produtos com os Melhores Fornecedores. Assim, Surgiu a ideia de trazer o atendimento diferenciado e agilidade para o mundo virtual, Surgindo assim há Ex Imports, Trazendo os produtos sob encomenda direto para o cliente.\n#23b0f7",
+  "background_color": "#ffffff",
+  "theme_color": "#23b0f7"
+}
