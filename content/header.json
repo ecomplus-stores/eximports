@@ -15,9 +15,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/masculino/?FUTEBOL"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "search_input": true
 }
